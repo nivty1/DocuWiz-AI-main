@@ -60,14 +60,15 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-**Muhammad Ghulam Jillani**
-- **Email**: [m.g.jillani123@gmail.com](mailto:m.g.jillani123@gmail.com)
-- **LinkedIn**: [linkedin.com/in/jillanisofttech](https://linkedin.com/in/jillanisofttech)
-- **GitHub**: [github.com/MGJillaniMughal](https://github.com/MGJillaniMughal)
-- **Website**: [mgjillanimughal.github.io](https://mgjillanimughal.github.io)
-- **Kaggle**: [kaggle.com/jillanisofttech](https://kaggle.com/jillanisofttech)
-- **Medium**: [jillanisofttech.medium.com](https://jillanisofttech.medium.com)
-- **Calendly**: [calendly.com/jillanisofttech/30mins](https://calendly.com/jillanisofttech/30mins)
+st.markdown("""
+<div class='contact-info'>
+    <p><strong>Email:</strong> <a href='mailto:niveshtyagi1@gmail.com'>niveshtyagi1@gmail.com</a></p>
+    <p><strong>Contact number:</strong> +91-7895558762</p>
+    <p><strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/nivesh-tyagi-5b2159203' target='_blank'>linkedin.com/in/nivesh-tyagi-5b2159203</a></p>
+    <p><strong>Website:</strong> <a href='https://bold.pro/my/nivesh-tyagi/155r' target='_blank'>bold.pro/my/nivesh-tyagi/155r</a></p>
+    <p><strong>GitHub:</strong> <a href='https://github.com/nivty1' target='_blank'>github.com/nivty1</a></p>
+</div>
+""", unsafe_allow_html=True)
+
 
 Feel free to reach out if you have any questions or collaboration ideas!
